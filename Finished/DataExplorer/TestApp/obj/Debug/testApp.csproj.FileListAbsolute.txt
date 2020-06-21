@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\bin\Debug\testApp.exe.config
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\bin\Debug\testApp.exe
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\bin\Debug\testApp.pdb
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.Properties.Resources.resources
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.csproj.GenerateResource.cache
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.exe
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.pdb
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.DataExplorer.resources
+C:\Users\Matt\Desktop\TestAPP\testApp\testApp\obj\Debug\testApp.Contact.resources

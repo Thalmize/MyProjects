@@ -1,0 +1,20 @@
+﻿Things that i want to include
+
+1. secure login form
+2. barcode/QR generator
+3. barcode/QR scanner
+4. SQL 
+5. ability to add new employees to have access
+6. adding products
+	to include:
+	barcode/QR code
+	Name:
+	Sport:
+	Position:
+	card produced by:
+	year produced
+	signed:
+	Number of item:
+
+7. Categories of cards: Sport
+8. ability to print barcodes

@@ -1,0 +1,20 @@
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\bin\Debug\Clock.exe.config
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\bin\Debug\Clock.exe
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\bin\Debug\Clock.pdb
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\Timer.Clock.resources
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\WindowsFormsApp1.Timer.resources
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\Clocks.csproj.GenerateResource.Cache
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\Clock.exe
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\Clock.pdb
+C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Debug\Clock.Timer.resources
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Clocks.csprojAssemblyReference.cache
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Timer.Clock.resources
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Clock.Properties.Resources.resources
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Clocks.csproj.GenerateResource.cache
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Clocks.csproj.CoreCompileInputs.cache
+E:\Matt_Portfolio\Finished\Timer\Timer\bin\Debug\Clock.exe.config
+E:\Matt_Portfolio\Finished\Timer\Timer\bin\Debug\Clock.exe
+E:\Matt_Portfolio\Finished\Timer\Timer\bin\Debug\Clock.pdb
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Clock.exe
+E:\Matt_Portfolio\Finished\Timer\Timer\obj\Debug\Clock.pdb
