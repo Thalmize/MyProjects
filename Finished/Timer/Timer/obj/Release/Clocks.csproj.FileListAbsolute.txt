@@ -1,9 +1,0 @@
-E:\Matt_Portfolio\Finished\Timer\Timer\bin\Release\Clock.exe.config
-E:\Matt_Portfolio\Finished\Timer\Timer\bin\Release\Clock.exe
-E:\Matt_Portfolio\Finished\Timer\Timer\bin\Release\Clock.pdb
-E:\Matt_Portfolio\Finished\Timer\Timer\obj\Release\Timer.Clock.resources
-E:\Matt_Portfolio\Finished\Timer\Timer\obj\Release\Clock.Properties.Resources.resources
-E:\Matt_Portfolio\Finished\Timer\Timer\obj\Release\Clocks.csproj.GenerateResource.cache
-E:\Matt_Portfolio\Finished\Timer\Timer\obj\Release\Clocks.csproj.CoreCompileInputs.cache
-E:\Matt_Portfolio\Finished\Timer\Timer\obj\Release\Clock.exe
-E:\Matt_Portfolio\Finished\Timer\Timer\obj\Release\Clock.pdb
