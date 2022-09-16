@@ -1,8 +1,0 @@
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\bin\Release\Timer.exe.config
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\bin\Release\Timer.exe
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\bin\Release\Timer.pdb
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Release\WindowsFormsApp1.Timer.resources
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Release\Timer.csproj.GenerateResource.Cache
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Release\Timer.exe
-C:\Users\Matt\Dropbox\Matt Programming\Timer\Timer\obj\Release\Timer.pdb
