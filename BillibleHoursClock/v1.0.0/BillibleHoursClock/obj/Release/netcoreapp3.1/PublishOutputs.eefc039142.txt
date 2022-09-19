@@ -1,0 +1,5 @@
+C:\Users\Thal\Desktop\BillibleHoursClock.exe
+C:\Users\Thal\Desktop\BillibleHoursClock.dll
+C:\Users\Thal\Desktop\BillibleHoursClock.deps.json
+C:\Users\Thal\Desktop\BillibleHoursClock.runtimeconfig.json
+C:\Users\Thal\Desktop\BillibleHoursClock.pdb
