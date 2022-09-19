@@ -1,0 +1,30 @@
+                        Official Game Stats-Final Individual Stats
+                           Games Played: 1   Record: 1-0
+
+Player Stats-Overall
+-----------------------------------------------------------------------------------
+Pos   ##   Player                           GP   PF   2s   3s   FM - FA     Total
+-----------------------------------------------------------------------------------
+ F    01   Tyler Gall                       3   1   1   1   1   1      6
+ G    02   Reece Dusek                                           
+ F    12   Johnnie Chiaravalle                                   
+ G    23   Chase Harper                                          
+ F    24   Caleb Cletcher                                        
+ G    33   Taylor Smith                                          
+ F    34   Logan Naylor                                          
+ F    55   Ricky Inman                      1                     
+-----------------------------------------------------------------------------------
+
+Player Percentages
+-----------------------------------------------------------------------------------------
+Pos   ##   Player                           GP   PF   2s   3s   FM - FA     FT   Total
+-----------------------------------------------------------------------------------------
+ F    01   Tyler Gall                    3   1   1   2   1   1      1      
+ G    02   Reece Dusek                                              
+ F    12   Johnnie Chiaravalle                                      
+ G    23   Chase Harper                                             
+ F    24   Caleb Cletcher                                           
+ G    33   Taylor Smith                                             
+ F    34   Logan Naylor                                             
+ F    55   Ricky Inman                   1                           
+-----------------------------------------------------------------------------------------

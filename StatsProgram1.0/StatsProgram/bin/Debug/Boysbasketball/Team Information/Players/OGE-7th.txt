@@ -1,0 +1,8 @@
+01|F|Tyler|Gall|7
+02|G|Reece|Dusek|7
+12|F|Johnnie|Chiaravalle|7
+23|G|Chase|Harper|6
+24|F|Caleb|Cletcher|7
+33|G|Taylor|Smith|6
+34|F|Logan|Naylor|5
+55|F|Ricky|Inman|7
