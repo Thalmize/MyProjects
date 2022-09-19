@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Information" targetNamespace="http://tempuri.org/Information.xsd" xmlns:mstns="http://tempuri.org/Information.xsd" xmlns="http://tempuri.org/Information.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Information" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Information" msprop:Generator_UserDSName="Information">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PlayersTable" msprop:Generator_TableClassName="PlayersTableDataTable" msprop:Generator_TableVarName="tablePlayersTable" msprop:Generator_TablePropName="PlayersTable" msprop:Generator_RowDeletingName="PlayersTableRowDeleting" msprop:Generator_RowChangingName="PlayersTableRowChanging" msprop:Generator_RowEvHandlerName="PlayersTableRowChangeEventHandler" msprop:Generator_RowDeletedName="PlayersTableRowDeleted" msprop:Generator_UserTableName="PlayersTable" msprop:Generator_RowChangedName="PlayersTableRowChanged" msprop:Generator_RowEvArgName="PlayersTableRowChangeEvent" msprop:Generator_RowClassName="PlayersTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PlayerID" msprop:Generator_ColumnVarNameInTable="columnPlayerID" msprop:Generator_ColumnPropNameInRow="PlayerID" msprop:Generator_ColumnPropNameInTable="PlayerIDColumn" msprop:Generator_UserColumnName="PlayerID" type="xs:string" minOccurs="0" />
+              <xs:element name="PlayerTeamName" msprop:Generator_ColumnVarNameInTable="columnPlayerTeamName" msprop:Generator_ColumnPropNameInRow="PlayerTeamName" msprop:Generator_ColumnPropNameInTable="PlayerTeamNameColumn" msprop:Generator_UserColumnName="PlayerTeamName" type="xs:string" minOccurs="0" />
+              <xs:element name="PlayerFirstName" msprop:Generator_ColumnVarNameInTable="columnPlayerFirstName" msprop:Generator_ColumnPropNameInRow="PlayerFirstName" msprop:Generator_ColumnPropNameInTable="PlayerFirstNameColumn" msprop:Generator_UserColumnName="PlayerFirstName" type="xs:string" minOccurs="0" />
+              <xs:element name="PlayerLastName" msprop:Generator_ColumnVarNameInTable="columnPlayerLastName" msprop:Generator_ColumnPropNameInRow="PlayerLastName" msprop:Generator_ColumnPropNameInTable="PlayerLastNameColumn" msprop:Generator_UserColumnName="PlayerLastName" type="xs:string" minOccurs="0" />
+              <xs:element name="PlayerPosition" msprop:Generator_ColumnVarNameInTable="columnPlayerPosition" msprop:Generator_ColumnPropNameInRow="PlayerPosition" msprop:Generator_ColumnPropNameInTable="PlayerPositionColumn" msprop:Generator_UserColumnName="PlayerPosition" type="xs:string" minOccurs="0" />
+              <xs:element name="PlayerNumber" msprop:Generator_ColumnVarNameInTable="columnPlayerNumber" msprop:Generator_ColumnPropNameInRow="PlayerNumber" msprop:Generator_ColumnPropNameInTable="PlayerNumberColumn" msprop:Generator_UserColumnName="PlayerNumber" type="xs:string" minOccurs="0" />
+              <xs:element name="PlayerAge" msprop:Generator_ColumnVarNameInTable="columnPlayerAge" msprop:Generator_ColumnPropNameInRow="PlayerAge" msprop:Generator_ColumnPropNameInTable="PlayerAgeColumn" msprop:Generator_UserColumnName="PlayerAge" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TeamsTable" msprop:Generator_TableClassName="TeamsTableDataTable" msprop:Generator_TableVarName="tableTeamsTable" msprop:Generator_TablePropName="TeamsTable" msprop:Generator_RowDeletingName="TeamsTableRowDeleting" msprop:Generator_RowChangingName="TeamsTableRowChanging" msprop:Generator_RowEvHandlerName="TeamsTableRowChangeEventHandler" msprop:Generator_RowDeletedName="TeamsTableRowDeleted" msprop:Generator_UserTableName="TeamsTable" msprop:Generator_RowChangedName="TeamsTableRowChanged" msprop:Generator_RowEvArgName="TeamsTableRowChangeEvent" msprop:Generator_RowClassName="TeamsTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TeamID" msprop:Generator_ColumnVarNameInTable="columnTeamID" msprop:Generator_ColumnPropNameInRow="TeamID" msprop:Generator_ColumnPropNameInTable="TeamIDColumn" msprop:Generator_UserColumnName="TeamID" type="xs:string" />
+              <xs:element name="TeamName" msprop:Generator_ColumnVarNameInTable="columnTeamName" msprop:Generator_ColumnPropNameInRow="TeamName" msprop:Generator_ColumnPropNameInTable="TeamNameColumn" msprop:Generator_UserColumnName="TeamName" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamNickName" msprop:Generator_ColumnVarNameInTable="columnTeamNickName" msprop:Generator_ColumnPropNameInRow="TeamNickName" msprop:Generator_ColumnPropNameInTable="TeamNickNameColumn" msprop:Generator_UserColumnName="TeamNickName" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamAbbreviation" msprop:Generator_ColumnVarNameInTable="columnTeamAbbreviation" msprop:Generator_ColumnPropNameInRow="TeamAbbreviation" msprop:Generator_ColumnPropNameInTable="TeamAbbreviationColumn" msprop:Generator_UserColumnName="TeamAbbreviation" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamColors" msprop:Generator_ColumnVarNameInTable="columnTeamColors" msprop:Generator_ColumnPropNameInRow="TeamColors" msprop:Generator_ColumnPropNameInTable="TeamColorsColumn" msprop:Generator_UserColumnName="TeamColors" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamHeadCoach" msprop:Generator_ColumnVarNameInTable="columnTeamHeadCoach" msprop:Generator_ColumnPropNameInRow="TeamHeadCoach" msprop:Generator_ColumnPropNameInTable="TeamHeadCoachColumn" msprop:Generator_UserColumnName="TeamHeadCoach" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamAssistantCoach" msprop:Generator_ColumnVarNameInTable="columnTeamAssistantCoach" msprop:Generator_ColumnPropNameInRow="TeamAssistantCoach" msprop:Generator_ColumnPropNameInTable="TeamAssistantCoachColumn" msprop:Generator_UserColumnName="TeamAssistantCoach" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamRosterName" msprop:Generator_ColumnVarNameInTable="columnTeamRosterName" msprop:Generator_ColumnPropNameInRow="TeamRosterName" msprop:Generator_ColumnPropNameInTable="TeamRosterNameColumn" msprop:Generator_UserColumnName="TeamRosterName" type="xs:string" minOccurs="0" />
+              <xs:element name="TeamRosterCount" msprop:Generator_ColumnVarNameInTable="columnTeamRosterCount" msprop:Generator_ColumnPropNameInRow="TeamRosterCount" msprop:Generator_ColumnPropNameInTable="TeamRosterCountColumn" msprop:Generator_UserColumnName="TeamRosterCount" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="PlayersKey1">
+      <xs:selector xpath=".//mstns:PlayersTable" />
+      <xs:field xpath="mstns:PlayerID" />
+      <xs:field xpath="mstns:PlayerNumber" />
+    </xs:unique>
+    <xs:unique name="TeamsKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TeamsTable" />
+      <xs:field xpath="mstns:TeamID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Teams_Players" msdata:parent="TeamsTable" msdata:child="PlayersTable" msdata:parentkey="TeamName" msdata:childkey="PlayerTeamName" msprop:Generator_UserChildTable="PlayersTable" msprop:Generator_ChildPropName="GetPlayersRows" msprop:Generator_UserRelationName="Teams_Players" msprop:Generator_RelationVarName="relationTeams_Players" msprop:Generator_UserParentTable="TeamsTable" msprop:Generator_ParentPropName="TeamsTableRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
